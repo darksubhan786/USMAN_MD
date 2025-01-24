@@ -22,7 +22,7 @@ USMAN MD
 
   
 
-<a href="https://github.com/Rhodvick/RHODVICKEZ-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK RHODVICKEZ-MD" width="150"></a>
+<a href="github.com/darksubhan786/USMAN_MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK USMAN_MD" width="150"></a>
 
   <a href="https://power-session.silvatechinc.my.id/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=kenya" width="230" height="38.45"/></a></p>
 
@@ -31,7 +31,7 @@ USMAN MD
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Rhodvick/RHODVICKEZ-MD&template=https://github.com/Rhodvick/RHODVICKEZ-MD.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=github.com/darksubhan786/USMAN_MD&template=github.com/darksubhan786/USMAN_MD.git)***
 
 <br>
 
